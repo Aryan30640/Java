@@ -1,4 +1,4 @@
-public class ZeroToTen {
+public class NumLoops {
     public static void main(String[] args) {
         //counter++ ==> counter + 1
         //counter is a changable variable
@@ -20,7 +20,7 @@ public class ZeroToTen {
         do { 
             System.out.println(i);
             i = i + 1; // i++;
-        } while ( i < 11);
+        } while ( i < 11 );
     }
 }
 
