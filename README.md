@@ -1,1 +1,2 @@
-#Hey there! This is a Repo in Which i have my Java practice files
+# This is a Repo in which I have my Java practice files.
+
