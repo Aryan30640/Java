@@ -1,4 +1,4 @@
-public class Pattern {
+public class RectLoop {
 
     public static void main(String[] args) {
         int m = 4;
