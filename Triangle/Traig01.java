@@ -4,6 +4,7 @@ public class Traig01 {
 
         //Outer loop
         for(int i=1; i<=n; i++) {
+            //Inner loop
             for(int j=1; j<=i; j++) {
                 int sum = i+j;
                 if(sum%2==0) {
