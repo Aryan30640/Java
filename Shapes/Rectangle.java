@@ -1,4 +1,4 @@
-public class RectLoop {
+public class Rectangle {
 
     public static void main(String[] args) {
         int m = 4;
